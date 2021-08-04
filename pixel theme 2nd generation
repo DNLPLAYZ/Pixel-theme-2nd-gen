@@ -1,0 +1,90 @@
+/**
+* @name pixel theme 2nd generation
+* @version Don't ask
+* @description A Fully Modified NotAnotherAnime Theme
+* @author SirLagsAlot
+* @website https://betterdiscord.app/theme/NotAnotherAnimeTheme
+*/
+@import url("https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css");
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c');
+@import url('https://codedotspectra.github.io/themes/core/custom-font.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+:root {
+--main-theme-color: #B55F5FFF;
+--theme-transparency: #000000B4;
+--theme-background-image: url('https://i.imgur.com/mi3J1LX.gif');
+--home-icon-image: url('https://i.kym-cdn.com/photos/images/newsfeed/001/169/611/a0e.gif');
+--home-icon-image-zoom: 100%;
+--home-icon-image-position: top;
+--server-listing-width: 72px;
+--font-size: 100%;
+--mention-color: #FAA61A00;
+--mention-sider: #FA670DFF;
+--mention-hover-color: #faa61a14;
+--category-hover-color: #CA3131FF;
+--unread-server-animation: rainbow;
+--video-screen-button-background-color: #c8c8c833;
+--video-screen-button-foreground-color: #ffffffff;
+--video-screen-button-background-hovor-color: #c8c8c866;
+--video-screen-button-foreground-hovor-color: #ffffffff;
+--member-listing-role-color: #B56AA6FF;
+--small-user-popout-background-image: url('https://cdn.statically.io/img/nextshark.com/wp-content/uploads/2018/01/tumblr_nr2569nqX01qze3hdo1_r2_500.gif');
+--small-user-popout-background-transparency: #00000099;
+--small-user-popout-background-image-position: left;
+--big-user-popout-background-image: url('https://cdn.statically.io/img/nextshark.com/wp-content/uploads/2018/01/tumblr_nr2569nqX01qze3hdo1_r2_500.gif');
+--big-user-popout-background-transparency: #00000099;
+--big-user-popout-background-image-position: right;
+--code-markup-background-color: #00000099;
+--code-markup-border: 1px solid transparent;
+--message-box-transparency: #00000099;
+--embed-background-transparency: #00000099;
+--message-hover-buttons-background: #c8c8c81a;
+--context-menu-transparency: #0f0f0fcc;
+--add-discover-icon-transparency: #c8c8c826;
+--add-discover-icon-color: #D34F4FFF;
+--channel-limit-count-color: #B55858FF;
+--channel-limit-background-left: #c8c8c81a;
+--channel-limit-background-right: #c8c8c833;
+--scrollbar-color: #C8596ECE;
+--unread-message-divider-color: #f04747;
+--unread-message-divider-font-color: #ffffff;
+--new-messages-bar-background-color: #DA7B7BFF;
+--new-messages-bar-font-color: #ffffff;
+--emoji-menu-background-color: #8E2E2EFF;
+--emoji-menu-sider-background-color: #FF9595FF;
+--emoji-menu-server-header-background-color: #FF7474FF;
+--emoji-menu-bottom-bar-background-color: #FF2C2CFF;
+--emoji-menu-search-bar-background-color: #9B433DFF;
+--message-search-menu-background-color: #FF8383CC;
+--message-search-container-background-color: #FF242B99;
+--message-search-result-background-color: #C8353E99;
+--text-voice-channel-color: #F2F2F2FF;
+--text-voice-channel-hover-color: #DE5A5AFF;
+--text-voice-channel-selected-text-color: #FF4848FF;
+--unread-text-channel-color: #AC6AFFFF;
+--unread-text-channel-bubble-color: #FF8181FF;
+--folder-background-color: #AA356205;
+--expanded-folder-background-color: #FF95A300;
+--reaction-emoji-background-color: #00000000;
+--reaction-emoji-border-color: 1px solid transparent;
+--reaction-emoji-hover-background-color: #ffffff1a;
+--reaction-emoji-hover-border-color: #ffffff33;
+--HSL-server-icon-size: 35px;
+--HSL-server-spacing: 6px;
+--rs-small-spacing: 0px;
+--rs-medium-spacing: 4px;
+--rs-large-spacing: 4px;
+--rs-small-width: 5px;
+--rs-medium-width: 5px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #10B2B5DE;
+--rs-idle-color: #F8FA5DFF;
+--rs-dnd-color: #F06D6DFF;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #995DFFFF;
+--rs-invisible-color: #747f8d;
+--rs-phone-visible: block;
+--customFont: 'M PLUS Rounded 1c';
+}
